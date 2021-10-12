@@ -9,6 +9,10 @@ A collection of articles and other resources related to design patterns, compute
 
 * 📜 [Devops Engineer Crash Course](https://matduggan.com/devops-engineer-crash-course/) by Mat Duggan
 
+## Github
+
+* [Creating Personal Access Tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+
 ## VM
 
 * [tmux Cheatsheet](https://gist.github.com/henrik/1967800) by [henrik](https://gist.github.com/henrik)
