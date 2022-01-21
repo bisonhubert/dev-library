@@ -25,3 +25,7 @@ A collection of articles and other resources related to design patterns, compute
 ## VM
 
 * [scp command](https://www.computerhope.com/unix/scp.htm)
+
+## Non-Technical Skills
+
+* [Technical Decision Making](https://www.reforge.com/blog/technical-decision-making)
