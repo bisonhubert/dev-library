@@ -29,3 +29,4 @@ A collection of articles and other resources related to design patterns, compute
 ## Non-Technical Skills
 
 * [Technical Decision Making](https://www.reforge.com/blog/technical-decision-making)
+* [Unlearning Perfectionism](https://arunkprasad.com/log/unlearning-perfectionism/) by Arnun Prasad
