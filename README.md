@@ -21,6 +21,9 @@ A collection of articles and other resources related to design patterns, compute
 * [Creating Personal Access Tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 * [tig](https://github.com/jonas/tig)
 
+## Python
+
+* [Library to convert ISO-8601 to Python Datetime Objects](https://github.com/closeio/ciso8601)
 
 ## VM
 
