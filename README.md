@@ -1,7 +1,11 @@
 # library
 A collection of articles and other resources related to design patterns, computer science, web development, and working on an engineering team.
 
-## Design Patterns
+## Table of Contents
+
+* [Design Patterns](#design-patterns)
+
+## Design Patterns <a name="design-patterns"></a>
 
 * 📼 [The Factory Pattern](https://www.youtube.com/watch?v=s_4ZrtQs8Do) by Arjan Egges
 
