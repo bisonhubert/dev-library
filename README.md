@@ -24,6 +24,11 @@ A collection of articles and other resources related to design patterns, compute
 ## Python
 
 * [Library to convert ISO-8601 to Python Datetime Objects](https://github.com/closeio/ciso8601)
+* [django-service-objects Library](https://pypi.org/project/django-service-objects/)
+
+## Django
+
+* [Django Service Objects](https://mitchel.me/2017/django-service-objects/)
 
 ## VM
 
