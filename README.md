@@ -7,7 +7,7 @@ A collection of articles and other resources related to design patterns, compute
 * [Design Patterns](#design-patterns)
 * [Dev Ops](#dev-ops)
 * [Django](#django)
-* [Error Handling]("#error-handling")
+* [Error Handling](#error-handling)
 * [Git / GitHub](#git-github)
 * [Management](#management)
 * [Non-Technical Skills](#non-technical)
