@@ -5,10 +5,6 @@ A collection of articles and other resources related to design patterns, compute
 
 how to table of contents: https://community.atlassian.com/t5/Bitbucket-questions/How-to-write-a-table-of-contents-in-a-Readme-md/qaq-p/673363
 
-## APIs
-
-* [The 10 Rest Commandments](https://treblle.com/blog/the-10-rest-commandments)
-
 ## "Soft" Skills
 
 * <add article I shared in eng hands yesterday>
@@ -41,3 +37,13 @@ how to table of contents: https://community.atlassian.com/t5/Bitbucket-questions
 ## VM
 
 * [scp command](https://www.computerhope.com/unix/scp.htm)
+
+
+## Management
+
+* [What You Give Up When Moving into Engineering Management](https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/)
+
+
+## Tooling
+
+* [Optimizing Memory Usage in Python Applications](https://martinheinz.dev/blog/68)
