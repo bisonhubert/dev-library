@@ -9,6 +9,7 @@ A collection of articles and other resources related to design patterns, compute
 * [Django](#django)
 * [Error Handling](#error-handling)
 * [Git / GitHub](#git-github)
+* [Hiring](#hiring)
 * [Management](#management)
 * [Non-Technical Skills](#non-technical)
 * [Python](#python)
@@ -42,6 +43,10 @@ A collection of articles and other resources related to design patterns, compute
 
 * [Creating Personal Access Tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 * [tig](https://github.com/jonas/tig)
+
+## Hiring <a nam="hiring"></a>
+
+* [How to Interview Product Managers](https://www.lennysnewsletter.com/p/how-to-interview-product-managers?token=eyJ1c2VyX2lkIjoyOTkyMTcwLCJfIjoib2c0elUiLCJpYXQiOjE2NDc5NjcyODcsImV4cCI6MTY0Nzk3MDg4NywiaXNzIjoicHViLTEwODQ1Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.ZWRlHcNG-KczHcUB8rlAOmqdWDpIfn1wpi-sYXvgVfU&s=r)
 
 ## Management <a name="management"></a>
 
