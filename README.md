@@ -26,6 +26,7 @@ A collection of articles and other resources related to design patterns, compute
 
 ## Compensation <a name="compensation"></a>
 
+* [CA AB-168](https://www.compa.as/blog/ca-ab-168-and-why-it-matters-to-your-company)
 * [Salary Transparency](https://review.firstround.com/opening-up-about-comp-isnt-easy-heres-how-to-get-more-transparent)
 
 ## Design Patterns <a name="design-patterns"></a>
