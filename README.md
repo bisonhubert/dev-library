@@ -4,6 +4,7 @@ A collection of articles and other resources related to design patterns, compute
 ## Table of Contents
 
 * [CLI](#cli)
+* [Compensation](#compensation)
 * [Design Patterns](#design-patterns)
 * [Dev Ops](#dev-ops)
 * [Django](#django)
@@ -22,6 +23,10 @@ A collection of articles and other resources related to design patterns, compute
 * [iTerm](https://iterm2.com/)
 * [Mosh](https://mosh.org/)
 * [eDEX-UI](https://github.com/GitSquared/edex-ui)
+
+## Compensation <a name="compensation"></a>
+
+* [Salary Transparency](https://review.firstround.com/opening-up-about-comp-isnt-easy-heres-how-to-get-more-transparent)
 
 ## Design Patterns <a name="design-patterns"></a>
 
