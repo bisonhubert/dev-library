@@ -11,6 +11,7 @@ A collection of articles and other resources related to design patterns, compute
 * [Error Handling](#error-handling)
 * [Git / GitHub](#git-github)
 * [Hiring](#hiring)
+* [IDE](#ide)
 * [Management](#management)
 * [Non-Technical Skills](#non-technical)
 * [Python](#python)
@@ -53,6 +54,14 @@ A collection of articles and other resources related to design patterns, compute
 ## Hiring <a nam="hiring"></a>
 
 * [How to Interview Product Managers](https://www.lennysnewsletter.com/p/how-to-interview-product-managers?token=eyJ1c2VyX2lkIjoyOTkyMTcwLCJfIjoib2c0elUiLCJpYXQiOjE2NDc5NjcyODcsImV4cCI6MTY0Nzk3MDg4NywiaXNzIjoicHViLTEwODQ1Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.ZWRlHcNG-KczHcUB8rlAOmqdWDpIfn1wpi-sYXvgVfU&s=r)
+
+## IDE <a name="ide"></a>
+
+### Vim
+
+#### NERDTree
+
+* [Move between open windows w/ ctrl-ww](https://stackoverflow.com/questions/1656591/how-to-jump-back-to-nerdtree-from-file-in-tab)
 
 ## Management <a name="management"></a>
 
