@@ -17,6 +17,7 @@ A collection of articles and other resources related to design patterns, compute
 * [Python](#python)
 * [Tooling](#tooling)
 * [VM](#vm)
+* [Visuals](#visuals)
 
 ## CLI <a name="cli"></a>
 
@@ -84,3 +85,7 @@ A collection of articles and other resources related to design patterns, compute
 ## VM <a name="vm"></a>
 
 * [scp command](https://www.computerhope.com/unix/scp.htm)
+
+## Visuals <a name="visuals"></a>
+
+* [Colors for Data Vis Style Guides](https://blog.datawrapper.de/colors-for-data-vis-style-guides/)
