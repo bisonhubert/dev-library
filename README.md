@@ -67,6 +67,7 @@ A collection of articles and other resources related to design patterns, compute
 
 ## Management <a name="management"></a>
 
+* [Staff Eng Stories](https://staffeng.com/stories/)
 * [What You Give Up When Moving into Engineering Management](https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/)
 
 ## Misc <a name="misc"></a>
