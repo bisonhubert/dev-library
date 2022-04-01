@@ -13,6 +13,7 @@ A collection of articles and other resources related to design patterns, compute
 * [Hiring](#hiring)
 * [IDE](#ide)
 * [Management](#management)
+* [Misc](#misc)
 * [Non-Technical Skills](#non-technical)
 * [Python](#python)
 * [Tooling](#tooling)
@@ -67,6 +68,10 @@ A collection of articles and other resources related to design patterns, compute
 ## Management <a name="management"></a>
 
 * [What You Give Up When Moving into Engineering Management](https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/)
+
+## Misc <a name="misc"></a>
+
+* [Guiding Principles of Programming](https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c)
 
 ## Non-Technical Skills <a name="non-technical"></a>
 
