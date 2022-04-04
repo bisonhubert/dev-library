@@ -12,6 +12,7 @@ A collection of articles and other resources related to design patterns, compute
 * [Git / GitHub](#git-github)
 * [Hiring](#hiring)
 * [IDE](#ide)
+* [Javascript](#javascript)
 * [Management](#management)
 * [Misc](#misc)
 * [Non-Technical Skills](#non-technical)
@@ -64,6 +65,10 @@ A collection of articles and other resources related to design patterns, compute
 #### NERDTree
 
 * [Move between open windows w/ ctrl-ww](https://stackoverflow.com/questions/1656591/how-to-jump-back-to-nerdtree-from-file-in-tab)
+
+## Javascript <a name="javascript"></a>
+
+* [Async Javascript](https://maximorlov.com/linting-rules-for-asynchronous-code-in-javascript/)
 
 ## Management <a name="management"></a>
 
