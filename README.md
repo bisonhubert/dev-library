@@ -57,6 +57,7 @@ A collection of articles and other resources related to design patterns, compute
 ## Hiring <a nam="hiring"></a>
 
 * [How to Interview Product Managers](https://www.lennysnewsletter.com/p/how-to-interview-product-managers?token=eyJ1c2VyX2lkIjoyOTkyMTcwLCJfIjoib2c0elUiLCJpYXQiOjE2NDc5NjcyODcsImV4cCI6MTY0Nzk3MDg4NywiaXNzIjoicHViLTEwODQ1Iiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.ZWRlHcNG-KczHcUB8rlAOmqdWDpIfn1wpi-sYXvgVfU&s=r)
+* [Interview Developers By Having Them Read Code](https://freakingrectangle.wordpress.com/2022/04/15/how-to-freaking-hire-great-developers/)
 
 ## IDE <a name="ide"></a>
 
