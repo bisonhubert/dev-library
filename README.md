@@ -3,6 +3,7 @@ A collection of articles and other resources related to design patterns, compute
 
 ## Table of Contents
 
+* [Career Advice](#career-advice)
 * [CLI](#cli)
 * [Compensation](#compensation)
 * [Design Patterns](#design-patterns)
@@ -20,6 +21,10 @@ A collection of articles and other resources related to design patterns, compute
 * [Tooling](#tooling)
 * [VM](#vm)
 * [Visuals](#visuals)
+
+## Career Advice <a name="cli"></a>
+
+* [Chart Engineering Path](https://review.firstround.com/how-to-chart-your-engineering-career-path-ic-manager-or-technical-founder)
 
 ## CLI <a name="cli"></a>
 
