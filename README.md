@@ -91,6 +91,7 @@ A collection of articles and other resources related to design patterns, compute
 
 * [Guiding Principles of Programming](https://alexewerlof.medium.com/my-guiding-principles-after-20-years-of-programming-a087dc55596c)
 * [Jargon: Yak Shaving](https://flameeyes.blog/2022/04/26/engineering-jargon-yaks/)
+* [Screenshot Tips and Tricks](https://sal.dev/macos/macos-screenshotting-tips-and-tricks/)
 
 ## Non-Technical Skills <a name="non-technical"></a>
 
