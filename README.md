@@ -104,6 +104,7 @@ A collection of articles and other resources related to design patterns, compute
 
 ## Tooling <a name="tooling"></a>
 
+* [Cool Desktops Don't Change](https://tylercipriani.com/blog/2022/06/15/choose-boring-desktop-technology/)
 * [Optimizing Memory Usage in Python Applications](https://martinheinz.dev/blog/68)
 
 ## VM <a name="vm"></a>
