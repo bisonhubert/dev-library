@@ -6,6 +6,7 @@ A collection of articles and other resources related to design patterns, compute
 * [Career Advice](#career-advice)
 * [CLI](#cli)
 * [Compensation](#compensation)
+* [CSS](#css)
 * [Deployments](#deployments)
 * [Design Patterns](#design-patterns)
 * [Dev Ops](#dev-ops)
@@ -38,6 +39,10 @@ A collection of articles and other resources related to design patterns, compute
 
 * [CA AB-168](https://www.compa.as/blog/ca-ab-168-and-why-it-matters-to-your-company)
 * [Salary Transparency](https://review.firstround.com/opening-up-about-comp-isnt-easy-heres-how-to-get-more-transparent)
+
+## CSS <a name="css">
+
+* [Defensive CSS](https://defensivecss.dev/)
 
 ## Deployments <a name="deployments"></a>
 
