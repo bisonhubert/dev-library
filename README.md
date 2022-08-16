@@ -60,6 +60,7 @@ A collection of articles and other resources related to design patterns, compute
 ## Dev Ops <a name="dev-ops"></a>
 
 * 📜 [Devops Engineer Crash Course](https://matduggan.com/devops-engineer-crash-course/) by Mat Duggan
+* [Docker Compose Best Practices for Dev and Prod](https://prod.releasehub.com/blog/6-docker-compose-best-practices-for-dev-and-prod)
 
 ## Django <a name="django"></a>
 
