@@ -21,6 +21,7 @@ A collection of articles and other resources related to design patterns, compute
 * [Misc](#misc)
 * [Non-Technical Skills](#non-technical)
 * [Personal Development](#personal-development)
+* [Platform Engineering](#platform-engineering)
 * [Python](#python)
 * [Tooling](#tooling)
 * [VM](#vm)
@@ -114,6 +115,10 @@ A collection of articles and other resources related to design patterns, compute
 ## Personal Development <a name="personal-development"></a>
 
 * [There's No Speed Limit](https://sive.rs/kimo)
+
+## Platform Engineering <a name="platform-engineering"></a>
+
+* [Platform Engineering KPIs](https://medium.com/wise-engineering/platform-engineering-kpis-6a3215f0ee14)
 
 ## Python <a name="python"></a>
 
