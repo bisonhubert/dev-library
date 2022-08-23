@@ -124,6 +124,7 @@ A collection of articles and other resources related to design patterns, compute
 
 * [Library to convert ISO-8601 to Python Datetime Objects](https://github.com/closeio/ciso8601)
 * [django-service-objects Library](https://pypi.org/project/django-service-objects/)
+* [Advanced Python: Achieving High Performance with Code Generation](https://medium.com/@yonatanzunger/advanced-python-achieving-high-performance-with-code-generation-796b177ec79)
 
 ## Tooling <a name="tooling"></a>
 
