@@ -20,6 +20,7 @@ A collection of articles and other resources related to design patterns, compute
 * [Management](#management)
 * [Misc](#misc)
 * [Non-Technical Skills](#non-technical)
+* [Personal Development](#personal-development)
 * [Python](#python)
 * [Tooling](#tooling)
 * [VM](#vm)
@@ -109,6 +110,10 @@ A collection of articles and other resources related to design patterns, compute
 
 * [Technical Decision Making](https://www.reforge.com/blog/technical-decision-making)
 * [Unlearning Perfectionism](https://arunkprasad.com/log/unlearning-perfectionism/) by Arnun Prasad
+
+## Personal Development <a name="personal-development"></a>
+
+* [There's No Speed Limit](https://sive.rs/kimo)
 
 ## Python <a name="python"></a>
 
