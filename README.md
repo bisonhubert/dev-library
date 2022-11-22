@@ -9,11 +9,14 @@ A collection of articles and other resources related to design patterns, compute
 * [Corporate](#corporate)
 * [CSS](#css)
 * [Deployments](#deployments)
+* [Design](#design)
 * [Design Patterns](#design-patterns)
 * [Dev Ops](#dev-ops)
 * [Django](#django)
+* [Employment](#employment)
 * [Error Handling](#error-handling)
 * [Git / GitHub](#git-github)
+* [Historical](#historical)
 * [Hiring](#hiring)
 * [IDE](#ide)
 * [Javascript](#javascript)
@@ -55,6 +58,10 @@ A collection of articles and other resources related to design patterns, compute
 
 * [Shipping to Production](https://blog.pragmaticengineer.com/shipping-to-production/)
 
+## Design <a name="design"></a>
+
+* [The Five UX Elements for Design](https://medium.com/uiuxrivel/the-five-ux-elements-for-design-65d18bca04cd)
+
 ## Design Patterns <a name="design-patterns"></a>
 
 * 📼 [The Factory Pattern](https://www.youtube.com/watch?v=s_4ZrtQs8Do) by Arjan Egges
@@ -68,6 +75,10 @@ A collection of articles and other resources related to design patterns, compute
 
 * [Django Service Objects](https://mitchel.me/2017/django-service-objects/)
 
+## Employment <a name="employment"></a>
+
+* [On Being a Principal Engineer](https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html)
+
 ## Error Handling <a name="error-handling"></a>
 
 * [What's in a Good Error Message](https://www.morling.dev/blog/whats-in-a-good-error-message/)
@@ -76,6 +87,10 @@ A collection of articles and other resources related to design patterns, compute
 
 * [Creating Personal Access Tokens](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 * [tig](https://github.com/jonas/tig)
+
+## Historical <a nam="historical"></a>
+
+* [The Thorny Problem of Keeping the Internet's Time](https://www.newyorker.com/tech/annals-of-technology/the-thorny-problem-of-keeping-the-internets-time)
 
 ## Hiring <a nam="hiring"></a>
 
