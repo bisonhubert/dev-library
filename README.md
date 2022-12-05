@@ -20,6 +20,7 @@ A collection of articles and other resources related to design patterns, compute
 * [Hiring](#hiring)
 * [IDE](#ide)
 * [Javascript](#javascript)
+* [Language](#language)
 * [Management](#management)
 * [Misc](#misc)
 * [Non-Technical Skills](#non-technical)
@@ -108,6 +109,10 @@ A collection of articles and other resources related to design patterns, compute
 ## Javascript <a name="javascript"></a>
 
 * [Async Javascript](https://maximorlov.com/linting-rules-for-asynchronous-code-in-javascript/)
+
+## Language <a name="language"></a>
+
+* [Gender Decoder](http://gender-decoder.katmatfield.com/)
 
 ## Management <a name="management"></a>
 
