@@ -22,6 +22,7 @@ A collection of articles and other resources related to design patterns, compute
 * [Javascript](#javascript)
 * [Language](#language)
 * [Management](#management)
+* [Meetings](#meetings)
 * [Misc](#misc)
 * [Non-Technical Skills](#non-technical)
 * [Personal Development](#personal-development)
@@ -121,6 +122,10 @@ A collection of articles and other resources related to design patterns, compute
 * [Staff Eng Stories](https://staffeng.com/stories/)
 * [What You Give Up When Moving into Engineering Management](https://stackoverflow.blog/2022/02/23/what-you-give-up-when-moving-into-engineering-management/)
 * [Company, Team, Self](https://lethain.com/company-team-self/)
+
+## Meetings <a name="meetings"></a>
+
+* [Brain Research on Back-to-Back Meetings](https://www.microsoft.com/en-us/worklab/work-trend-index/brain-research)
 
 ## Misc <a name="misc"></a>
 
