@@ -31,6 +31,7 @@ A collection of articles and other resources related to design patterns, compute
 * [Tooling](#tooling)
 * [VM](#vm)
 * [Visuals](#visuals)
+* [Work Environment](#work-environment)
 
 ## Career Advice <a name="career-advice"></a>
 
@@ -164,3 +165,7 @@ A collection of articles and other resources related to design patterns, compute
 ## Visuals <a name="visuals"></a>
 
 * [Colors for Data Vis Style Guides](https://blog.datawrapper.de/colors-for-data-vis-style-guides/)
+
+## Work Environment <a name="work-environment"></a>
+
+* [Changing an Unhealthy Work Environment](https://www.youtube.com/watch?v=eYLb7WUtYt8)
