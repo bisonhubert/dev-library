@@ -165,6 +165,7 @@ A collection of articles and other resources related to design patterns, compute
 ## Visuals <a name="visuals"></a>
 
 * [Colors for Data Vis Style Guides](https://blog.datawrapper.de/colors-for-data-vis-style-guides/)
+* [	Ask HN: What's your favorite illustration in computer science?](https://news.ycombinator.com/item?id=34322303)
 
 ## Work Environment <a name="work-environment"></a>
 
